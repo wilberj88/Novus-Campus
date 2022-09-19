@@ -9,7 +9,7 @@ st.title('Novus Campus 🏛️')
 
 st.header("Define tu meta ✍️")
 st.subheader("Prepárate para alcanzarla 🎯")
-st.subheader("Monitorea Paso a Paso 👣 la materialización de tus Metas ✅")
+st.subheader("Monitorea Paso a Paso 👣 la Materialización ✅")
 
 with st.form(key='my_form'):
    username = st.text_input('Username')
