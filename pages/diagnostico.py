@@ -21,6 +21,6 @@ i = st.button('Preparar Hoja de Ruta de Novus Campus🏛️ exclusivo para mí')
 
 
 if a and b and c and h and i:
-  st.write('Con un plan personalizado de ', h,' horas semanales, mediante ejemplos asociados a <<', c, '>> para que aprendas <<', a, '>> y logres aportar a salvar al planeta en <<', b, '>>)
+  st.write('Con un plan personalizado de ', h,' horas semanales, mediante ejemplos asociados a <<', c, '>> para que aprendas <<', a, '>> y logres aportar a salvar al planeta en <<', b ')
 
 
