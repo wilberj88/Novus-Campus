@@ -11,13 +11,16 @@ st.header("Define tu meta ✍️")
 st.subheader("Prepárate para alcanzarla 🎯")
 st.subheader("Monitorea Paso a Paso 👣 la Materialización ✅")
 
+a = st.selectbox('Elige el rol más demandado a futuro que desees abordar', ['Data Scientist', 'Broker', 'ML Operator'])
+b = st.multiselect('Selecciona los problemas del planeta que deseas enfrentar', ['Hambre', 'Pobreza', 'Educacion'])
+c = st.multiselect('Selecciona tus principales pasatiempos', ['Leer', 'Ejercicio', 'Cine'])
 
-st.title('Define tu esencia')
+h = st.slider('¿Cuántas horas puedes estudiar al día?', 0, 24)
 
-st.selectbox('Elige el rol más demandado a futuro que desees abordar', ['Data Scientist', 'Broker', 'ML Operator'])
-st.multiselect('Selecciona los problemas del planeta que deseas enfrentar', ['Hambre', 'Pobreza', 'Educacion'])
-st.multiselect('Selecciona tus principales pasatiempos', ['Leer', 'Ejercicio', 'Cine'])
-st.text_input('Indícanos actualmente en qué te ganas la vida')
+i = st.button('Preparar Hoja de Ruta de Novus Campus🏛️ exclusivo para mí')
 
 
-st.button('Preparar Mando de Novus Vita exclusivo para mí')
+if a and b and c and h and i:
+  st.write('Perfecto, hemos preparado la mejor hoja de ruta para que logres aportar a salvar al planeta en <<', b, '>> con tu aprendizaje en <<', a, '>> mediante ejemplos asociados a <<', c, '>>.')
+
+
