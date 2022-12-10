@@ -12,3 +12,6 @@ Algorithms:
 https://towardsdatascience.com/6-reinforcement-learning-algorithms-explained-237a79dbd8e
 Engineer:
 https://pub.towardsai.net/how-to-be-a-machine-learning-engineer-f7302ca5dbc3
+
+Lifecycle:
+https://moez-62905.medium.com/data-scientists-starter-toolkit-for-end-to-end-machine-learning-life-cycle-in-2022-2d2420bda22c
