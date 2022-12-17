@@ -6,6 +6,8 @@ http://www.pythontutor.com/
 Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
 
+ChatGPT as assistant in contests:
+https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
 
 ML 
 Algorithms:
