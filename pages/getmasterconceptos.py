@@ -437,3 +437,4 @@ with col3:
     }
   st_echarts(options=acelerometro3)
  
+w = st.button('Evaluar Nuevamente')
