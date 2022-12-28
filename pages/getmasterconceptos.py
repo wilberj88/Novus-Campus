@@ -299,11 +299,11 @@ def render_basic_radar():
                 "data": [
                     {
                         "value": [4200, 3000, 20000, 35000, 50000, 18000],
-                        "name": "Aprendizaje Actual",
+                        "name": "Estado Actual de Alumno",
                     },
                     {
                         "value": [5000, 14000, 28000, 26000, 42000, 21000],
-                        "name": "Aprendizaje Esperado",
+                        "name": "Meta de Aprendizaje",
                     },
                 ],
             }
