@@ -16,6 +16,28 @@ st.header("Sistemas Inteligentes de Aprendizaje")
 st.write("Bienvenidos al futuro educativo 👋")
 
 
+col1, col2 = st.columns(2)
+
+with col1:
+    territorio = st.selectbox(
+        "Indica el Territorio",
+        ("Bogotá", "Medellín", "Cali", "Bucaramanga", "Barrancabermeja"),
+    )
+    categoria = st.radio(
+        "Indica la categoría de campaña👇 ",
+        options=['Gobernación', 'Asamblea Departamental','Alcaldía', 'Concejo', 'Junta de Acción Comunal'],
+    )
+
+with col2:
+    redsocial = st.selectbox(
+        "Cuál red del candidato desea analizar?",
+        ("Facebook", "Instagram", "Twitter", "Google"),
+    )
+    perfil = st.text_input('Ingresa el link del perfil', '''
+    ''')
+    otroscandidatos =  st.text_input('Ingresa el link del contrincante a comparar', '''
+    ''')
+
 a = st.selectbox('Elige el rol más demandado a futuro que desees abordar', ['Data Scientist', 'Broker', 'ML Operator'])
 b = st.selectbox('Selecciona los problemas del planeta que deseas enfrentar', ['Hambre', 'Pobreza', 'Educacion'])
 c = st.selectbox('Selecciona tus principales pasatiempos', ['Leer', 'Ejercicio', 'Cine'])
