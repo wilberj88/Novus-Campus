@@ -321,67 +321,67 @@ ST_RADAR_DEMOS = {
 
 render_basic_radar()
 
-  col1, col2, col3 = st.columns(3)
-  with col1:
-    acelerometro1 = {
-          "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
-          "series": [
-              {
-                  "name": "Pressure",
-                  "type": "gauge",
-                  "axisLine": {
-                      "lineStyle": {
-                          "width": 10,
-                      },
-                  },
-                  "progress": {"show": "true", "width": 10},
-                  "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                  "data": [{"value": 30, "name": "Teoría"}],
-              }
-          ],
-      }
+col1, col2, col3 = st.columns(3)
+with col1:
+  acelerometro1 = {
+        "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
+        "series": [
+            {
+                "name": "Pressure",
+                "type": "gauge",
+                "axisLine": {
+                    "lineStyle": {
+                        "width": 10,
+                    },
+                },
+                "progress": {"show": "true", "width": 10},
+                "detail": {"valueAnimation": "true", "formatter": "{value}"},
+                "data": [{"value": 30, "name": "Teoría"}],
+            }
+        ],
+    }
 
-    st_echarts(options=acelerometro1)
+  st_echarts(options=acelerometro1)
 
-  with col2:
-    acelerometro2 = {
-          "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
-          "series": [
-              {
-                  "name": "Pressure",
-                  "type": "gauge",
-                  "axisLine": {
-                      "lineStyle": {
-                          "width": 10,
-                      },
-                  },
-                  "progress": {"show": "true", "width": 10},
-                  "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                  "data": [{"value": 50, "name": "Práctica"}],
-              }
-          ],
-      }
+with col2:
+  acelerometro2 = {
+        "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
+        "series": [
+            {
+                "name": "Pressure",
+                "type": "gauge",
+                "axisLine": {
+                    "lineStyle": {
+                        "width": 10,
+                    },
+                },
+                "progress": {"show": "true", "width": 10},
+                "detail": {"valueAnimation": "true", "formatter": "{value}"},
+                "data": [{"value": 50, "name": "Práctica"}],
+            }
+        ],
+    }
 
-    st_echarts(options=acelerometro2)
+  st_echarts(options=acelerometro2)
 
-  with col3:
-    acelerometro3 = {
-          "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
-          "series": [
-              {
-                  "name": "Pressure",
-                  "type": "gauge",
-                  "axisLine": {
-                      "lineStyle": {
-                          "width": 10,
-                      },
-                  },
-                  "progress": {"show": "true", "width": 10},
-                  "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                  "data": [{"value": 80, "name": "Evaluación"}],
-              }
-          ],
-      }
-    st_echarts(options=acelerometro3)
+with col3:
+  acelerometro3 = {
+        "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
+        "series": [
+            {
+                "name": "Pressure",
+                "type": "gauge",
+                "axisLine": {
+                    "lineStyle": {
+                        "width": 10,
+                    },
+                },
+                "progress": {"show": "true", "width": 10},
+                "detail": {"valueAnimation": "true", "formatter": "{value}"},
+                "data": [{"value": 80, "name": "Evaluación"}],
+            }
+        ],
+    }
+  st_echarts(options=acelerometro3)
  
 st.write('Con un plan personalizado de ', h,' horas semanales, mediante ejemplos asociados a <<', c, '>> para que aprendas <<', a, '>> y logres aportar a salvar al planeta en <<', b, '>>.')
