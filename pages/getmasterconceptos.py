@@ -83,7 +83,7 @@ def render_basic_radar():
                 "type": "radar",
                 "data": [
                     {
-                        "value": [200, 300, 2000, 3500, 5000, 1800],
+                        "value": [2000, 3000, 2000, 3500, 15000, 11800],
                         "name": "Estado Actual de Alumno",
                     },
                     {
