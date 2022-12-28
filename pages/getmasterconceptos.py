@@ -364,6 +364,11 @@ st.title('Sistema de Evaluación Personalizada con Videollamadas Automatizadas d
 
 
 
+picture = st.camera_input("Responde en 30 segundos la siguiente pregunta: ¿Bla Bla bla?")
+
+if picture:
+    st.image(picture)
+    st.write('Cargar Respuesta 🤖')
 
 
 
