@@ -26,7 +26,6 @@ i = st.button('Preparar Hoja de Ruta de Novus Campus🏛️ exclusivo para mí')
 
 
 if a and b and c and h and i:
-  st.write('Con un plan personalizado de ', h,' horas semanales, mediante ejemplos asociados a <<', c, '>> para que aprendas <<', a, '>> y logres aportar a salvar al planeta en <<', b, '>>.'           
   col1, col2, col3 = st.columns(3)
   with col1:
     acelerometro1 = {
@@ -89,3 +88,5 @@ if a and b and c and h and i:
           ],
       }
     st_echarts(options=acelerometro3)
+  st.write('Con un plan personalizado de ', h,' horas semanales, mediante ejemplos asociados a <<', c, '>> para que aprendas <<', a, '>> y logres aportar a salvar al planeta en <<', b, '>>.'           
+  
