@@ -32,21 +32,21 @@ col1, col2 = st.columns(2)
 with col1:
     territorio = st.selectbox(
         "Indica el Territorio",
-        ("Bogotá", "Medellín", "Cali", "Bucaramanga", "Barrancabermeja"),
+        ("España", "Argentina", "Colombia", "Chile", "México"),
     )
     categoria = st.radio(
-        "Indica la categoría de campaña👇 ",
-        options=['Gobernación', 'Asamblea Departamental','Alcaldía', 'Concejo', 'Junta de Acción Comunal'],
+        "Indica tus conocimientos actuales en TEMA 1 ",
+        options=['Nulo', 'Elemental','Básico', 'Intermedio', 'Avanzado'],
     )
 
 with col2:
     redsocial = st.selectbox(
-        "Cuál red del candidato desea analizar?",
+        "Indica la red social del profesional que más te inspira de la industria?",
         ("Facebook", "Instagram", "Twitter", "Google"),
     )
     perfil = st.text_input('Ingresa el link del perfil', '''
     ''')
-    otroscandidatos =  st.text_input('Ingresa el link del contrincante a comparar', '''
+    otroscandidatos =  st.text_input('Ingresa el link de otro líder de la industria a contrastar', '''
     ''')
 
 a = st.selectbox('Elige el rol más demandado a futuro que desees abordar', ['Data Scientist', 'Broker', 'ML Operator'])
