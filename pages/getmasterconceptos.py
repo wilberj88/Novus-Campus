@@ -16,65 +16,76 @@ st.header("Sistemas Inteligentes de Aprendizaje")
 st.write("Bienvenidos al futuro educativo 👋")
 
 
-col1, col2, col3 = st.columns(3)
-with col1:
-  acelerometro1 = {
-        "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
-        "series": [
-            {
-                "name": "Pressure",
-                "type": "gauge",
-                "axisLine": {
-                    "lineStyle": {
-                        "width": 10,
-                    },
-                },
-                "progress": {"show": "true", "width": 10},
-                "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                "data": [{"value": 30, "name": "Teoría"}],
-            }
-        ],
-    }
+a = st.selectbox('Elige el rol más demandado a futuro que desees abordar', ['Data Scientist', 'Broker', 'ML Operator'])
+b = st.selectbox('Selecciona los problemas del planeta que deseas enfrentar', ['Hambre', 'Pobreza', 'Educacion'])
+c = st.selectbox('Selecciona tus principales pasatiempos', ['Leer', 'Ejercicio', 'Cine'])
 
-  st_echarts(options=acelerometro1)
+h = st.slider('¿Cuántas horas puedes estudiar al día?', 0, 24)
 
-with col2:
-  acelerometro2 = {
-        "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
-        "series": [
-            {
-                "name": "Pressure",
-                "type": "gauge",
-                "axisLine": {
-                    "lineStyle": {
-                        "width": 10,
-                    },
-                },
-                "progress": {"show": "true", "width": 10},
-                "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                "data": [{"value": 50, "name": "Práctica"}],
-            }
-        ],
-    }
+i = st.button('Preparar Hoja de Ruta de Novus Campus🏛️ exclusivo para mí')
 
-  st_echarts(options=acelerometro2)
 
-with col3:
-  acelerometro3 = {
-        "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
-        "series": [
-            {
-                "name": "Pressure",
-                "type": "gauge",
-                "axisLine": {
-                    "lineStyle": {
-                        "width": 10,
-                    },
-                },
-                "progress": {"show": "true", "width": 10},
-                "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                "data": [{"value": 80, "name": "Evaluación"}],
-            }
-        ],
-    }
-  st_echarts(options=acelerometro3)
+if a and b and c and h and i:
+  st.write('Con un plan personalizado de ', h,' horas semanales, mediante ejemplos asociados a <<', c, '>> para que aprendas <<', a, '>> y logres aportar a salvar al planeta en <<', b, '>>.'           
+  col1, col2, col3 = st.columns(3)
+  with col1:
+    acelerometro1 = {
+          "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
+          "series": [
+              {
+                  "name": "Pressure",
+                  "type": "gauge",
+                  "axisLine": {
+                      "lineStyle": {
+                          "width": 10,
+                      },
+                  },
+                  "progress": {"show": "true", "width": 10},
+                  "detail": {"valueAnimation": "true", "formatter": "{value}"},
+                  "data": [{"value": 30, "name": "Teoría"}],
+              }
+          ],
+      }
+
+    st_echarts(options=acelerometro1)
+
+  with col2:
+    acelerometro2 = {
+          "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
+          "series": [
+              {
+                  "name": "Pressure",
+                  "type": "gauge",
+                  "axisLine": {
+                      "lineStyle": {
+                          "width": 10,
+                      },
+                  },
+                  "progress": {"show": "true", "width": 10},
+                  "detail": {"valueAnimation": "true", "formatter": "{value}"},
+                  "data": [{"value": 50, "name": "Práctica"}],
+              }
+          ],
+      }
+
+    st_echarts(options=acelerometro2)
+
+  with col3:
+    acelerometro3 = {
+          "tooltip": {"formatter": "{a} <br/>{b} : {c}%"},
+          "series": [
+              {
+                  "name": "Pressure",
+                  "type": "gauge",
+                  "axisLine": {
+                      "lineStyle": {
+                          "width": 10,
+                      },
+                  },
+                  "progress": {"show": "true", "width": 10},
+                  "detail": {"valueAnimation": "true", "formatter": "{value}"},
+                  "data": [{"value": 80, "name": "Evaluación"}],
+              }
+          ],
+      }
+    st_echarts(options=acelerometro3)
