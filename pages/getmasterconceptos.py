@@ -16,7 +16,7 @@ st.write("Bienvenidos al futuro educativo 👋")
 st.markdown(
   """
   En esta web encontrarás los 3 sistemas iniciales de Inteligencia Artificial para Get Master 🎓:
-  - 📆 _    Diagnóstico Personalizado del Estudiante: necesidades de estudio, gustos, habilidades, pasiones y disponibilidad horaria
+  - 📊 _    Diagnóstico Personalizado del Estudiante: necesidades de estudio, gustos, habilidades, pasiones y disponibilidad horaria
   - 📆 _    Hoja de Ruta de Aprendizaje con Calendario Personalizado de Estudio
   - 🧠 _    Evaluación Personalizada con Videollamadas Automatizadas
   
@@ -25,9 +25,9 @@ st.markdown(
 )
 
 
-st.title('Sistema de Diagnóstico Personalizado de Get Master 🧑‍🎓')
-st.title('Sistema de Hoja de Ruta de Aprendizaje Personalizada de Get Master 🧑‍🎓')
-st.title('Sistema de Evaluación Personalizada de Get Master 🧑‍🎓')
+st.title('Sistema de Diagnóstico Personalizado de Get Master 📊')
+st.title('Sistema de Hoja de Ruta de Aprendizaje con Calendario Personalizada de Get Master 📆')
+st.title('Sistema de Evaluación Personalizada con Videollamadas Automatizadas de Get Master 🧠')
 
 
 
