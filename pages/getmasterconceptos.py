@@ -10,9 +10,19 @@ from streamlit_echarts import st_pyecharts
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Concepto para Get Master", page_icon="🧑‍🎓")
 
-st.title('Get Master 🧑‍🎓 - Conceptualización Inicial de Inteligencia Artificial')
-st.header("Sistemas Inteligentes de Aprendizaje: Diagnóstico + Ruta + Evaluación")
+st.title('Get Master 🧑‍🎓 - Inteligencia Artificial Inicial')
+st.header("Sistemas Inteligentes de Aprendizaje")
 st.write("Bienvenidos al futuro educativo 👋")
+st.markdown(
+  """
+  En esta web encontrarás los 3 sistemas iniciales de Inteligencia Artificial para Get Master 🎓:
+  - 📆 _    Diagnóstico Personalizado del Estudiante: necesidades de estudio, gustos, habilidades, pasiones y disponibilidad horaria
+  - 📆 _    Hoja de Ruta de Aprendizaje con Calendario Personalizado de Estudio
+  - 🧠 _    Evaluación Personalizada con Videollamadas Automatizadas
+  
+  EMPIEZA TU APRENDIZAJE PERSONALIZADO AHORA 🕰
+  """
+)
 
 
 st.title('Sistema de Diagnóstico Personalizado de Get Master 🧑‍🎓')
