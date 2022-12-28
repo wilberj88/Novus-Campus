@@ -10,10 +10,15 @@ from streamlit_echarts import st_pyecharts
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
 st.set_page_config(layout="wide", page_title="Concepto para Get Master", page_icon="🧑‍🎓")
 
-st.title('Get Master 🧑‍🎓')
-st.header("Sistemas Inteligentes de Aprendizaje")
-
+st.title('Get Master 🧑‍🎓 - Conceptualización Inicial de Inteligencia Artificial')
+st.header("Sistemas Inteligentes de Aprendizaje: Diagnóstico + Ruta + Evaluación")
 st.write("Bienvenidos al futuro educativo 👋")
+
+
+st.title('Sistema de Diagnóstico Personalizado de Get Master 🧑‍🎓')
+st.title('Sistema de Hoja de Ruta de Aprendizaje Personalizada de Get Master 🧑‍🎓')
+st.title('Sistema de Evaluación Personalizada de Get Master 🧑‍🎓')
+
 
 
 col1, col2 = st.columns(2)
