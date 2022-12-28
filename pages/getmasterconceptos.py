@@ -280,30 +280,30 @@ if a and b and c and h and i:
 
 def render_basic_radar():
     option = {
-        "title": {"text": "基础雷达图"},
-        "legend": {"data": ["预算分配（Allocated Budget）", "实际开销（Actual Spending）"]},
+        "title": {"text": "Radiografía de Aprendizaje"},
+        "legend": {"data": ["Estado Actual de Alumno", "Meta de Aprendizaje"]},
         "radar": {
             "indicator": [
-                {"name": "销售（Sales）", "max": 6500},
-                {"name": "管理（Administration）", "max": 16000},
-                {"name": "信息技术（Information Technology）", "max": 30000},
-                {"name": "客服（Customer Support）", "max": 38000},
-                {"name": "研发（Development）", "max": 52000},
-                {"name": "市场（Marketing）", "max": 25000},
+                {"name": "Conceptos", "max": 6500},
+                {"name": "Teorías", "max": 16000},
+                {"name": "Modelos", "max": 30000},
+                {"name": "Casos de Estudio", "max": 38000},
+                {"name": "Ejercicios", "max": 52000},
+                {"name": "Examen VideoLlamada", "max": 25000},
             ]
         },
         "series": [
             {
-                "name": "预算 vs 开销（Budget vs spending）",
+                "name": "Aprendizaje Actual Vs Proyectado",
                 "type": "radar",
                 "data": [
                     {
                         "value": [4200, 3000, 20000, 35000, 50000, 18000],
-                        "name": "预算分配（Allocated Budget）",
+                        "name": "Aprendizaje Actual",
                     },
                     {
                         "value": [5000, 14000, 28000, 26000, 42000, 21000],
-                        "name": "实际开销（Actual Spending）",
+                        "name": "Aprendizaje Esperado",
                     },
                 ],
             }
