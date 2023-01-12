@@ -19,3 +19,6 @@ https://moez-62905.medium.com/top-mlops-python-libraries-you-must-know-in-2022-8
 
 Lifecycle:
 https://moez-62905.medium.com/data-scientists-starter-toolkit-for-end-to-end-machine-learning-life-cycle-in-2022-2d2420bda22c
+
+AI-Education´s Future:
+https://moez-62905.medium.com/how-artificial-intelligence-is-changing-the-future-of-education-f2a217b7570e
