@@ -1,5 +1,8 @@
 # Novus-Campus
 
+References:
+https://lablab.ai/t
+
 Tutor:
 http://www.pythontutor.com/
 
