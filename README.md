@@ -34,3 +34,6 @@ https://medium.com/letavc/top-5-trends-in-ai-47f919543800
 
 ML Books:
 https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688
+
+CHAT GPT Books:
+https://ai.plainenglish.io/unlock-the-power-of-chatgpt-a-list-of-top-tools-and-extensions-b38142909922
