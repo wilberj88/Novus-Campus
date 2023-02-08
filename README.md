@@ -31,3 +31,6 @@ https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-res
 
 Ai´s Trends in 2023:
 https://medium.com/letavc/top-5-trends-in-ai-47f919543800
+
+ML Books:
+https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688
