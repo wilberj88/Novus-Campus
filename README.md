@@ -25,3 +25,6 @@ https://moez-62905.medium.com/data-scientists-starter-toolkit-for-end-to-end-mac
 
 AI-Education´s Future:
 https://moez-62905.medium.com/how-artificial-intelligence-is-changing-the-future-of-education-f2a217b7570e
+
+MLOps Learning Roadmap with free resources:
+https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9
