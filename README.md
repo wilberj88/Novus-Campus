@@ -28,3 +28,6 @@ https://moez-62905.medium.com/how-artificial-intelligence-is-changing-the-future
 
 MLOps Learning Roadmap with free resources:
 https://pub.towardsai.net/ultimate-mlops-learning-roadmap-with-free-learning-resources-in-2023-3ba7664cb1e9
+
+Ai´s Trends in 2023:
+https://medium.com/letavc/top-5-trends-in-ai-47f919543800
