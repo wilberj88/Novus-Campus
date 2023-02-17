@@ -40,3 +40,6 @@ https://python.plainenglish.io/15-free-data-science-deep-learning-books-4af88213
 
 CHAT GPT Books:
 https://ai.plainenglish.io/unlock-the-power-of-chatgpt-a-list-of-top-tools-and-extensions-b38142909922
+
+Easiest ways to generate a side income with Python
+https://python.plainenglish.io/the-easiest-ways-to-generate-a-side-income-with-python-60104ad36998
