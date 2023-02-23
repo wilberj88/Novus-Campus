@@ -2,6 +2,7 @@
 
 References:
 https://lablab.ai/t
+https://www.eventbrite.es/e/entradas-3o-curso-de-inteligencia-artificial-generativa-y-chatgpt-525445019197
 
 Tutor:
 http://www.pythontutor.com/
