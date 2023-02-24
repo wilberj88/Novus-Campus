@@ -3,6 +3,7 @@
 References:
 https://lablab.ai/t
 https://www.eventbrite.es/e/entradas-3o-curso-de-inteligencia-artificial-generativa-y-chatgpt-525445019197
+CodeDamn:https://ai.plainenglish.io/10-ai-tools-other-than-chatgpt-to-boost-productivity-and-creativity-605b4f7d15af
 
 Tutor:
 http://www.pythontutor.com/
