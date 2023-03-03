@@ -15,8 +15,12 @@ https://moez-62905.medium.com/5-tips-that-will-make-you-a-python-ninja-73ce8327f
 Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
 
-ChatGPT as assistant in contests:
+ChatGPT 
+as assistant in contests:
 https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
+as making money:
+https://frugalforless.medium.com/easy-ways-to-make-money-with-chatgpt-c4e3bae23d0f
+
 
 ML 
 Algorithms:
