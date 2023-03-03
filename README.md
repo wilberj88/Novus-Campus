@@ -16,6 +16,8 @@ Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
 
 ChatGPT 
+top 10 free sources
+https://ai.plainenglish.io/become-a-chatgpt-pro-10-free-resources-to-elevate-your-game-4591cbec18fc
 as assistant in contests:
 https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python-b2e7482f2c18
 as making money:
