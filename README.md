@@ -12,6 +12,9 @@ https://medium.com/geekculture/having-a-personal-python-teacher-using-chatgpt-49
 Python intermedied:
 https://moez-62905.medium.com/5-tips-that-will-make-you-a-python-ninja-73ce8327f876
 
+Technical Blogs with pay:
+https://medium.com/geekculture/10-websites-will-pay-300-for-your-technical-blog-646a50342460
+
 Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
 
