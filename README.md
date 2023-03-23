@@ -50,6 +50,8 @@ https://medium.com/letavc/top-5-trends-in-ai-47f919543800
 
 ML Books:
 https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688
+StoryBooks Creation:
+https://medium.com/mlearning-ai/heres-the-fastest-way-to-create-a-storybook-with-illustrations-using-ai-94bb5086a1c7
 
 Deep Learning Books:
 https://python.plainenglish.io/15-free-data-science-deep-learning-books-4af882135fad
