@@ -5,6 +5,8 @@ https://lablab.ai/t
 https://www.eventbrite.es/e/entradas-3o-curso-de-inteligencia-artificial-generativa-y-chatgpt-525445019197
 CodeDamn:https://ai.plainenglish.io/10-ai-tools-other-than-chatgpt-to-boost-productivity-and-creativity-605b4f7d15af
 www.soyhenry.com
+Book Club: 
+https://dsbookclub.github.io/
 
 Inspiration:
 Education 4.0 by World Economic Forum: 1) Abilities and skills, 2) Attitudes and values, 3)knowledge and information
