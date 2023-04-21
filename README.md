@@ -2,6 +2,7 @@
 
 References:
 https://lablab.ai/t
+Prompt Engineering Platzi: https://platzi.com/clases/7296-chatgpt/61971-para-que-usar-chatgpt-y-prompt-engineering/
 https://www.eventbrite.es/e/entradas-3o-curso-de-inteligencia-artificial-generativa-y-chatgpt-525445019197
 CodeDamn:https://ai.plainenglish.io/10-ai-tools-other-than-chatgpt-to-boost-productivity-and-creativity-605b4f7d15af
 www.soyhenry.com
