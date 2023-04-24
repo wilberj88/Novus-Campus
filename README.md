@@ -17,6 +17,9 @@ Tutor:
 http://www.pythontutor.com/
 https://medium.com/geekculture/having-a-personal-python-teacher-using-chatgpt-49204261c531
 
+AI talks: ChatGPT assistant via Streamlit
+https://blog.streamlit.io/ai-talks-chatgpt-assistant-via-streamlit/
+
 Python intermedied:
 https://moez-62905.medium.com/5-tips-that-will-make-you-a-python-ninja-73ce8327f876
 
