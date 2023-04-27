@@ -19,6 +19,10 @@ Tutor:
 http://www.pythontutor.com/
 https://medium.com/geekculture/having-a-personal-python-teacher-using-chatgpt-49204261c531
 
+
+PERSONAL ASSISTANT GPT:
+"Actúa como mi asistente personal, genera mi calendario del día empezando a las 7am y terminando 10pm, debe incluir una hora de ejercicio, dos sesiones de trabajo de 4 horas cada una, también contempla tiempo para las 3 comidas en el día, estudiar, distraerme y ocio. Conviértelo en formato .ICS. -calendario google-"
+
 AI talks: ChatGPT assistant via Streamlit
 https://blog.streamlit.io/ai-talks-chatgpt-assistant-via-streamlit/
 
