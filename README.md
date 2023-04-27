@@ -13,6 +13,8 @@ Inspiration:
 Education 4.0 by World Economic Forum: 1) Abilities and skills, 2) Attitudes and values, 3)knowledge and information
 https://www.weforum.org/agenda/2023/03/heres-why-educations-systems-need-to-start-taking-a-skills-first-approach?utm_source=linkedin&utm_medium=social_scheduler&utm_term=Education%2C+Skills+and+Learning&utm_content=31%2F03%2F2023+20%3A40
 
+TUTOR GPT: "Actúa como mi profesor de __ de nivel intermedio. Hazme preguntas, espera que responda y luego hazme otra pregunta. Cuando cometa un error por favor corrígeme y dame retroalimentacion"
+
 Tutor:
 http://www.pythontutor.com/
 https://medium.com/geekculture/having-a-personal-python-teacher-using-chatgpt-49204261c531
