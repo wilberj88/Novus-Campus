@@ -1,5 +1,8 @@
 # Novus-Campus
 
+STACKS:
+Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game-with-streamlit-and-firebase-c84c8772c706
+
 References:
 https://lablab.ai/t
 Prompt Engineering Platzi: https://platzi.com/clases/7296-chatgpt/61971-para-que-usar-chatgpt-y-prompt-engineering/
