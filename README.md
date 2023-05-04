@@ -19,7 +19,7 @@ Book Club:
 https://dsbookclub.github.io/
 Introduction to IA by Platzi: https://platzi.com/clases/6935-ai/60689-que-puede-y-que-no-puede-hacer-ia/
 Data Science is a profession and IA is a tool.
-
+Deep Learning libraries in python: Pythorch, TensorFlow
 
 Inspiration:
 Education 4.0 by World Economic Forum: 1) Abilities and skills, 2) Attitudes and values, 3)knowledge and information
