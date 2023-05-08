@@ -91,5 +91,6 @@ https://ai.plainenglish.io/unlock-the-power-of-chatgpt-a-list-of-top-tools-and-e
 Easiest ways to generate a side income with Python
 https://python.plainenglish.io/the-easiest-ways-to-generate-a-side-income-with-python-60104ad36998
 
-Algebra Lineal => representar objetos <= Predicción <= Cálculo (Optimización)
+Algebra Lineal => representar objetos <= Predicción <= Cálculo (Optimización) <= Estadística-Probabilidad
 https://platzi.com/clases/6935-ai/60707-por-que-es-importante-el-calculo-para-ia/
+Incertidumbre y Probabilidades: https://platzi.com/clases/6935-ai/60708-por-que-es-importante-la-estadistica-y-probabilida/
