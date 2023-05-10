@@ -6,7 +6,8 @@ Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game
 COURSE REFERENCE:
 https://101course.streamlit.app/
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
-
+Build Fast Course
+https://www.buildfastcourse.com/
 
 CHALLENGES REFERENCE:
 https://studentchallenges.streamlit.app/
