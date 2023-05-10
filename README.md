@@ -8,6 +8,9 @@ https://101course.streamlit.app/
 
 CHALLENGES REFERENCE:
 https://studentchallenges.streamlit.app/
+Enter the Summit Hackathon! ⛰️ - 📣 Official Announcements - Streamlit
+https://discuss.streamlit.io/t/enter-the-summit-hackathon/40473
+
 
 References:
 https://lablab.ai/t
