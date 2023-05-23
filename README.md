@@ -51,6 +51,9 @@ https://blog.streamlit.io/ai-talks-chatgpt-assistant-via-streamlit/
 Python intermedied:
 https://moez-62905.medium.com/5-tips-that-will-make-you-a-python-ninja-73ce8327f876
 
+
+PYTHON SOLUTIONS MARKET PLACE - FREELANCING PLATFORMS:
+https://python.plainenglish.io/the-python-marketplace-selling-python-services-and-solutions-371121512076 
 Technical Blogs with pay:
 https://medium.com/geekculture/10-websites-will-pay-300-for-your-technical-blog-646a50342460
 
@@ -65,8 +68,6 @@ https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python
 as making money:
 https://frugalforless.medium.com/easy-ways-to-make-money-with-chatgpt-c4e3bae23d0f
 
-FREELANCING PLATFORMS:
-https://python.plainenglish.io/the-python-marketplace-selling-python-services-and-solutions-371121512076
 
 ML 
 Algorithms:
