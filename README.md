@@ -107,3 +107,7 @@ https://python.plainenglish.io/the-easiest-ways-to-generate-a-side-income-with-p
 Algebra Lineal => representar objetos <= Predicción <= Cálculo (Optimización) <= Estadística-Probabilidad
 https://platzi.com/clases/6935-ai/60707-por-que-es-importante-el-calculo-para-ia/
 Incertidumbre y Probabilidades: https://platzi.com/clases/6935-ai/60708-por-que-es-importante-la-estadistica-y-probabilida/
+
+
+Computación Financiera:
+https://amitvkulkarni.medium.com/risk-management-of-stocks-using-python-37f75afbc2dc
