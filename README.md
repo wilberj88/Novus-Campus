@@ -41,7 +41,6 @@ Tutor:
 http://www.pythontutor.com/
 https://medium.com/geekculture/having-a-personal-python-teacher-using-chatgpt-49204261c531
 
-
 PERSONAL ASSISTANT GPT:
 "Actúa como mi asistente personal, genera mi calendario del día empezando a las 7am y terminando 10pm, debe incluir una hora de ejercicio, dos sesiones de trabajo de 4 horas cada una, también contempla tiempo para las 3 comidas en el día, estudiar, distraerme y ocio. Conviértelo en formato .ICS. -calendario google-"
 https://medium.com/geekculture/6-more-chatgpt-plugins-to-start-using-today-artificial-intelligence-crhome-extension-plug-in-tool-73a0d4e80193
@@ -66,6 +65,8 @@ https://medium.com/geekculture/hey-chatgpt-solve-these-coding-tasks-using-python
 as making money:
 https://frugalforless.medium.com/easy-ways-to-make-money-with-chatgpt-c4e3bae23d0f
 
+FREELANCING PLATFORMS:
+https://python.plainenglish.io/the-python-marketplace-selling-python-services-and-solutions-371121512076
 
 ML 
 Algorithms:
