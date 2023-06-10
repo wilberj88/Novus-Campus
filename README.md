@@ -14,6 +14,7 @@ https://studentchallenges.streamlit.app/
 Enter the Summit Hackathon! ⛰️ - 📣 Official Announcements - Streamlit
 https://discuss.streamlit.io/t/enter-the-summit-hackathon/40473
 Open Source Sports Analytics: PySport
+Kaggle: https://medium.com/@enric.rovira96/how-i-won-a-kaggle-gold-medal-and-became-a-kaggle-master-72c17bd93ad6
 
 References:
 https://lablab.ai/t
