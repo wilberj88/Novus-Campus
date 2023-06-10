@@ -112,6 +112,7 @@ Incertidumbre y Probabilidades: https://platzi.com/clases/6935-ai/60708-por-que-
 
 Computación Financiera:
 https://amitvkulkarni.medium.com/risk-management-of-stocks-using-python-37f75afbc2dc
+https://python.plainenglish.io/mastering-personal-finance-management-with-python-4dedcc8cd53d
 
 Business Models:
 https://navdeepyadav.medium.com/31-startup-business-models-you-must-know-with-examples-c0107fa33b17
