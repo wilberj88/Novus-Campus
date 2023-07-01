@@ -53,10 +53,14 @@ Python intermedied:
 https://moez-62905.medium.com/5-tips-that-will-make-you-a-python-ninja-73ce8327f876
 
 
-PYTHON SOLUTIONS MARKET PLACE - FREELANCING PLATFORMS:
+PYTHON 
+ECOSYSTEM:
+https://python.plainenglish.io/automate-your-life-business-top-20-python-packages-2051fd02fb8
+SOLUTIONS MARKET PLACE - FREELANCING PLATFORMS:
 https://python.plainenglish.io/the-python-marketplace-selling-python-services-and-solutions-371121512076 
 Technical Blogs with pay:
 https://medium.com/geekculture/10-websites-will-pay-300-for-your-technical-blog-646a50342460
+
 
 Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
