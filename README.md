@@ -37,6 +37,7 @@ https://www.weforum.org/agenda/2023/03/heres-why-educations-systems-need-to-star
 Clase Árboles de Búsqueda para Resolver Problemas: https://platzi.com/clases/6935-ai/60700-arboles-de-juego-la-escuela-de-turing/
 
 TUTOR GPT: "Actúa como mi profesor de __ de nivel intermedio. Hazme preguntas, espera que responda y luego hazme otra pregunta. Cuando cometa un error por favor corrígeme y dame retroalimentacion"
+https://artificialcorner.com/steal-these-prompts-to-learn-python-quickly-using-chatgpt-766c1ca7745f
 
 Tutor:
 http://www.pythontutor.com/
