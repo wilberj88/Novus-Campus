@@ -8,6 +8,7 @@ https://101course.streamlit.app/
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 Build Fast Course
 https://www.buildfastcourse.com/
+Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travels-with-plotly-express-ce62d4e67127
 
 CHALLENGES REFERENCE:
 https://studentchallenges.streamlit.app/
