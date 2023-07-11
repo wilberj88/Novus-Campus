@@ -40,6 +40,9 @@ Clase Árboles de Búsqueda para Resolver Problemas: https://platzi.com/clases/6
 TUTOR GPT: "Actúa como mi profesor de __ de nivel intermedio. Hazme preguntas, espera que responda y luego hazme otra pregunta. Cuando cometa un error por favor corrígeme y dame retroalimentacion"
 https://artificialcorner.com/steal-these-prompts-to-learn-python-quickly-using-chatgpt-766c1ca7745f
 
+CINE for Maths:
+https://ali.medium.com/16-beautiful-math-movies-that-everyone-should-watch-at-least-once-in-their-life-5ff84389ce3e
+
 Tutor:
 http://www.pythontutor.com/
 https://medium.com/geekculture/having-a-personal-python-teacher-using-chatgpt-49204261c531
