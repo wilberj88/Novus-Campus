@@ -10,6 +10,9 @@ Build Fast Course
 https://www.buildfastcourse.com/
 Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travels-with-plotly-express-ce62d4e67127
 
+ROAD MAP References:
+Free interactive roadmaps to learn Data Science and Machine Learning by yourself. Start here: https://aigents.co/learn/roadmaps/intro
+
 CHALLENGES REFERENCE:
 https://studentchallenges.streamlit.app/
 Enter the Summit Hackathon! ⛰️ - 📣 Official Announcements - Streamlit
