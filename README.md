@@ -66,6 +66,8 @@ https://python.plainenglish.io/the-python-marketplace-selling-python-services-an
 Technical Blogs with pay:
 https://medium.com/geekculture/10-websites-will-pay-300-for-your-technical-blog-646a50342460
 
+MLOps
+https://jayyshah.medium.com/mastering-mlops-a-comprehensive-guide-to-revolutionize-ml-model-deployment-e4d84537260c
 
 Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
