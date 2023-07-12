@@ -34,6 +34,8 @@ Data Science is a profession and IA is a tool.
 Deep Learning libraries in python: Pythorch, TensorFlow
 Predictive Analytics: https://python.plainenglish.io/python-libraries-for-predictive-analytics-and-modeling-8181c6b29b81
 Regex: https://medium.com/techtofreedom/9-practical-examples-of-using-regular-expressions-in-python-1b4f8da5cdab
+Youtuber1 Tutorials: https://github.com/avrabyt
+
 
 Inspiration:
 Education 4.0 by World Economic Forum: 1) Abilities and skills, 2) Attitudes and values, 3)knowledge and information
