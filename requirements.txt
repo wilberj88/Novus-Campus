@@ -8,3 +8,7 @@ beautifulsoup4
 pytrends
 seaborn
 openai
+streamlit-vis-timeline
+raceplotly
+streamlit_agraph
+graphviz
