@@ -3,6 +3,7 @@ from streamlit_echarts import st_echarts
 import pandas as pd
 import numpy as np
 from pyecharts import options as opts
+import pydeck as pdk
 from pyecharts.charts import Bar
 from streamlit_echarts import st_pyecharts
 
