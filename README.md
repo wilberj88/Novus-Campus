@@ -72,6 +72,9 @@ SOLUTIONS MARKET PLACE - FREELANCING PLATFORMS:
 https://python.plainenglish.io/the-python-marketplace-selling-python-services-and-solutions-371121512076 
 Technical Blogs with pay:
 https://medium.com/geekculture/10-websites-will-pay-300-for-your-technical-blog-646a50342460
+Best Practices:
+https://medium.com/codex/9-common-python-mistakes-youll-be-able-to-avoid-after-reading-this-blog-573d4696c463
+
 
 MLOps
 https://jayyshah.medium.com/mastering-mlops-a-comprehensive-guide-to-revolutionize-ml-model-deployment-e4d84537260c
