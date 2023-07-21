@@ -12,6 +12,7 @@ Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travel
 
 ROAD MAP References:
 Free interactive roadmaps to learn Data Science and Machine Learning by yourself. Start here: https://aigents.co/learn/roadmaps/intro
+https://medium.com/@tonydain9_78432/data-science-road-map-2023-2024-a694c7e36811
 
 CHALLENGES REFERENCE:
 https://studentchallenges.streamlit.app/
