@@ -54,6 +54,9 @@ Tutor:
 http://www.pythontutor.com/
 https://medium.com/geekculture/having-a-personal-python-teacher-using-chatgpt-49204261c531
 
+OPEN AI Function Calling:
+https://towardsdatascience.com/an-introduction-to-openai-function-calling-e47e7cd7680e
+
 PERSONAL ASSISTANT GPT:
 "Actúa como mi asistente personal, genera mi calendario del día empezando a las 7am y terminando 10pm, debe incluir una hora de ejercicio, dos sesiones de trabajo de 4 horas cada una, también contempla tiempo para las 3 comidas en el día, estudiar, distraerme y ocio. Conviértelo en formato .ICS. -calendario google-"
 https://medium.com/geekculture/6-more-chatgpt-plugins-to-start-using-today-artificial-intelligence-crhome-extension-plug-in-tool-73a0d4e80193
