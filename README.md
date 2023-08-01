@@ -2,6 +2,7 @@
 
 STACKS:
 Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game-with-streamlit-and-firebase-c84c8772c706
+Django-Vue-GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
 
 COURSE REFERENCE:
 https://101course.streamlit.app/
@@ -9,6 +10,7 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
 Build Fast Course
 https://www.buildfastcourse.com/
 Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travels-with-plotly-express-ce62d4e67127
+
 
 ROAD MAP References:
 Free interactive roadmaps to learn Data Science and Machine Learning by yourself. Start here: https://aigents.co/learn/roadmaps/intro
