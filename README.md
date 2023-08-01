@@ -10,7 +10,7 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
 Build Fast Course
 https://www.buildfastcourse.com/
 Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travels-with-plotly-express-ce62d4e67127
-10 must known concepts on ChatGPT: https://sonery.medium.com/10-must-know-terms-and-concepts-to-better-understand-chatgpt-and-llms-f9a6a474f543
+10 must known concepts on ChatGPT & LangChain is an open-source development framework for applications that use LLMs: https://sonery.medium.com/10-must-know-terms-and-concepts-to-better-understand-chatgpt-and-llms-f9a6a474f543
 
 ROAD MAP References:
 Free interactive roadmaps to learn Data Science and Machine Learning by yourself. Start here: https://aigents.co/learn/roadmaps/intro
