@@ -17,6 +17,9 @@ ROAD MAP References:
 Free interactive roadmaps to learn Data Science and Machine Learning by yourself. Start here: https://aigents.co/learn/roadmaps/intro
 https://medium.com/@tonydain9_78432/data-science-road-map-2023-2024-a694c7e36811
 
+AI Python`s Libraries Top 20:
+https://python.plainenglish.io/powering-ai-with-python-top-20-modules-for-artificial-intelligence-d574cacb6939
+
 CHALLENGES REFERENCE:
 https://studentchallenges.streamlit.app/
 Enter the Summit Hackathon! ⛰️ - 📣 Official Announcements - Streamlit
