@@ -40,6 +40,9 @@ Predictive Analytics: https://python.plainenglish.io/python-libraries-for-predic
 Regex: https://medium.com/techtofreedom/9-practical-examples-of-using-regular-expressions-in-python-1b4f8da5cdab
 Youtuber1 Tutorials: https://github.com/avrabyt
 
+Python Open DataSets:
+https://python.plainenglish.io/exploring-pythons-opendataset-f91ee25b13a3
+
 AI Automation Agency:
 https://artificialcorner.com/ai-automation-agency-the-new-way-to-get-rich-in-2023-9cb55ce6e365
 
