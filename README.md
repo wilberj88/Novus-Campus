@@ -48,6 +48,9 @@ Predictive Analytics: https://python.plainenglish.io/python-libraries-for-predic
 Regex: https://medium.com/techtofreedom/9-practical-examples-of-using-regular-expressions-in-python-1b4f8da5cdab
 Youtuber1 Tutorials: https://github.com/avrabyt
 
+Vector DB:
+https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16
+
 Python Open DataSets:
 https://python.plainenglish.io/exploring-pythons-opendataset-f91ee25b13a3
 
