@@ -32,6 +32,10 @@ Vission App in 10 steps: https://heartbeat.comet.ml/create-a-computer-vision-app
 Mentor´s Power:
 https://betterprogramming.pub/the-power-of-mentors-a5d9d66856a5
 
+Potentials Professors:
+https://github.com/keitazoumana
+
+
 References:
 https://lablab.ai/t
 Prompt Engineering Platzi: https://platzi.com/clases/7296-chatgpt/61971-para-que-usar-chatgpt-y-prompt-engineering/
