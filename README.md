@@ -7,6 +7,7 @@ Django-Vue-GraphQL: https://blog.devgenius.io/create-a-modern-application-with-d
 
 COURSE REFERENCE:
 https://30days.streamlit.app/
+https://st-worldle.streamlit.app/?locale=en
 4GeeksAcademy-DataScience+ML
 https://101course.streamlit.app/
 https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
