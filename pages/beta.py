@@ -389,7 +389,7 @@ with col1:
                 },
                 "progress": {"show": "true", "width": 10},
                 "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                "data": [{"value": 30, "name": "Teoría"}],
+                "data": [{"value": 30, "name": "Aciertos"}],
             }
         ],
     }
@@ -410,7 +410,7 @@ with col2:
                 },
                 "progress": {"show": "true", "width": 10},
                 "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                "data": [{"value": 50, "name": "Práctica"}],
+                "data": [{"value": 50, "name": "Seguridad"}],
             }
         ],
     }
@@ -431,7 +431,7 @@ with col3:
                 },
                 "progress": {"show": "true", "width": 10},
                 "detail": {"valueAnimation": "true", "formatter": "{value}"},
-                "data": [{"value": 80, "name": "Evaluación"}],
+                "data": [{"value": 80, "name": "Contundencia"}],
             }
         ],
     }
