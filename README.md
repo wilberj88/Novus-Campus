@@ -6,6 +6,7 @@ Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game
 Django-Vue-GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
 
 COURSE REFERENCE:
+Asimov.Academy
 https://30days.streamlit.app/
 https://st-worldle.streamlit.app/?locale=en
 4GeeksAcademy-DataScience+ML
