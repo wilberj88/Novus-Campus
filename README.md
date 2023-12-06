@@ -36,6 +36,9 @@ Vission App in 10 steps: https://heartbeat.comet.ml/create-a-computer-vision-app
 Mentor´s Power:
 https://betterprogramming.pub/the-power-of-mentors-a5d9d66856a5
 
+Travis AI Tutor:
+https://medium.datadriveninvestor.com/travis-your-ai-powered-tutor-7f5a6eb7b984
+
 Potentials Professors:
 https://github.com/keitazoumana
 
