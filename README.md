@@ -149,6 +149,7 @@ Ai´s Trends in 2023:
 https://medium.com/letavc/top-5-trends-in-ai-47f919543800
 
 ML Books:
+https://medium.com/@NovelNestBooks/10-eye-opening-books-recommended-by-sam-altman-prepare-to-be-blown-away-like-i-was-56501fc0aea6
 https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688
 https://medium.com/geekculture/5-top-machine-learning-system-design-books-for-data-scientists-machine-learning-engineers-cedc3b43abf8
 StoryBooks Creation:
