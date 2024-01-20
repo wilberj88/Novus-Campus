@@ -19,6 +19,7 @@ Track your owns travels: https://betterprogramming.pub/keep-track-of-your-travel
 https://lablab.ai/event/eleven-labs-ai-hackathon?utm_source=email&utm_medium=blast&utm_campaign=ElevenLabs&utm_term=link1&utm_content=newsletter1
 Mastering Streamlit: https://saiharishcherukuri.medium.com/mastering-streamlit-essential-commands-for-interactive-apps-8ad570115f18
 Mastering Python: https://medium.com/@kay.herklotz/supercharge-your-python-development-with-these-tools-2b8fe882f489
+Generative AI: https://levelup.gitconnected.com/generative-ai-learning-roadmap-from-absolute-beginner-to-practioner-part-3-983aad9e366f
 
 ROAD MAP References:
 Free interactive roadmaps to learn Data Science and Machine Learning by yourself. Start here: https://aigents.co/learn/roadmaps/intro
