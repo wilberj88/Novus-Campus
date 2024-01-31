@@ -36,6 +36,9 @@ Open Source Sports Analytics: PySport
 Kaggle: https://medium.com/@enric.rovira96/how-i-won-a-kaggle-gold-medal-and-became-a-kaggle-master-72c17bd93ad6
 Vission App in 10 steps: https://heartbeat.comet.ml/create-a-computer-vision-app-in-10-steps-using-comet-and-streamlit-d7d597d3cb79
 
+20 ML Projects:
+https://sharmaji27.medium.com/20-unique-machine-learning-projects-with-source-code-1a8027b4fdb1
+
 Mentor´s Power:
 https://betterprogramming.pub/the-power-of-mentors-a5d9d66856a5
 
