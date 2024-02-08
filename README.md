@@ -121,6 +121,7 @@ https://jayyshah.medium.com/mastering-mlops-a-comprehensive-guide-to-revolutioni
 
 LLM Frameworks:
 https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407
+https://medium.com/usf-msds/a-langchain-chatbot-using-pdfs-6b83dfa904de
 
 Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
