@@ -119,9 +119,11 @@ https://medium.com/codex/9-common-python-mistakes-youll-be-able-to-avoid-after-r
 MLOps
 https://jayyshah.medium.com/mastering-mlops-a-comprehensive-guide-to-revolutionize-ml-model-deployment-e4d84537260c
 
+
 LLM Frameworks:
 https://betterprogramming.pub/frameworks-for-serving-llms-60b7f7b23407
 https://medium.com/usf-msds/a-langchain-chatbot-using-pdfs-6b83dfa904de
+https://medium.com/databutton/ai-chatbot-with-your-knowledge-base-0390c8c6e5d8
 
 Student Management System
 https://medium.com/@ursmaheshj/student-management-website-using-django-with-source-code-f52fb101a056
