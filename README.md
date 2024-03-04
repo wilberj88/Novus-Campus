@@ -108,6 +108,8 @@ Python intermedied:
 https://moez-62905.medium.com/5-tips-that-will-make-you-a-python-ninja-73ce8327f876
 
 
+
+
 PYTHON 
 ECOSYSTEM:
 https://python.plainenglish.io/automate-your-life-business-top-20-python-packages-2051fd02fb8
@@ -117,6 +119,7 @@ Technical Blogs with pay:
 https://medium.com/geekculture/10-websites-will-pay-300-for-your-technical-blog-646a50342460
 Best Practices:
 https://medium.com/codex/9-common-python-mistakes-youll-be-able-to-avoid-after-reading-this-blog-573d4696c463
+Arquitectura Visualization: https://medium.com/django-unleashed/visualizing-architecture-with-pythons-diagrams-library-fe178dae2ea9
 
 
 MLOps
