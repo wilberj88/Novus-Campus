@@ -5,6 +5,9 @@ Python-MongoDB: https://towardsdatascience.com/streamlit-and-mongodb-storing-you
 Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game-with-streamlit-and-firebase-c84c8772c706
 Django-Vue-GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
 
+Sentiment Speech:
+https://medium.datadriveninvestor.com/conversational-sentiment-analysis-on-audio-data-3142a874e327
+
 COURSE REFERENCE:
 Asimov.Academy
 https://30days.streamlit.app/
