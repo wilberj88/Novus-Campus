@@ -3,6 +3,7 @@
 STACKS:
 Python-MongoDB: https://towardsdatascience.com/streamlit-and-mongodb-storing-your-data-in-the-cloud-c28663313ade
 Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game-with-streamlit-and-firebase-c84c8772c706
+https://towardsdatascience.com/how-i-created-a-kaggle-like-platform-for-my-students-using-streamlit-and-how-you-can-do-it-as-well-5fd10671f559
 Django-Vue-GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
 
 Sentiment Speech:
