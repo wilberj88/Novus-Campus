@@ -26,6 +26,7 @@ Mastering Python: https://medium.com/@kay.herklotz/supercharge-your-python-devel
 Generative AI: https://levelup.gitconnected.com/generative-ai-learning-roadmap-from-absolute-beginner-to-practioner-part-3-983aad9e366f
 
 ROAD MAP References:
+AI Engineer: https://medium.com/ai-simplified-in-plain-english/every-ai-engineer-should-know-these-15-python-libraries-in-2025-b83726ecc86d
 Free interactive roadmaps to learn Data Science and Machine Learning by yourself. Start here: https://aigents.co/learn/roadmaps/intro
 https://medium.com/@tonydain9_78432/data-science-road-map-2023-2024-a694c7e36811
 
