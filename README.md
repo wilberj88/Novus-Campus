@@ -9,6 +9,13 @@ Django-Vue-GraphQL: https://blog.devgenius.io/create-a-modern-application-with-d
 Sentiment Speech:
 https://medium.datadriveninvestor.com/conversational-sentiment-analysis-on-audio-data-3142a874e327
 
+example:
+«Curious how we found that
+0.91+ - Vocal Expressiveness Range
+12.4/min - Pause Modulation Index
+9.8% - Action Word Density»
+
+
 COURSE REFERENCE:
 Asimov.Academy
 https://30days.streamlit.app/
